@@ -1,5 +1,5 @@
 # LPOO
 
-'''
+```
 npm install
-'''
+```
