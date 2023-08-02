@@ -1,1 +1,5 @@
 # LPOO
+
+'''
+npm install
+'''
